@@ -4,12 +4,6 @@
     "repositoryName": "dev.hubpress.io",
     "branch": "gh-pages"
   },
-  "site": {
-    "title": "Zero Five Zero",
-    "description": "Delete Posts, User Profiles, Post Status Improvements, PouchDB Backend improvements, and other things.",
-    "postsPerPage": "10"
-  },
-  "socialnetwork": {},
   "theme": {
     "name": "Casper"
   }

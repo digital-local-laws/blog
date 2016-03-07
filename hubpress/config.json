@@ -4,6 +4,12 @@
     "repositoryName": "dev.hubpress.io",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "HubPress 0.5.0 Release",
+    "description": "Delete Posts, User Profiles, Post Status Improvements, PouchDB Backend improvements,",
+    "postsPerPage": "10"
+  },
+  "socialnetwork": {},
   "theme": {
     "name": "Casper"
   }

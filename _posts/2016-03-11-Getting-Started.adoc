@@ -1,3 +1,5 @@
 = Getting Started
 
-At the suggestion of some of the wonderful people who have stepped forward to contribute advice to this project, I am starting this blog about our project's progress.  This blog serves two roles.  One is to inform.  The other is as an experiment.  I am posting it using HubPress, a tool which uses GitHub the same way I ultimately hope this prototype will.
+At the suggestion of some of the wonderful people who have stepped forward to contribute advice to this project, I am starting this blog about our project's progress.
+
+This blog serves two roles.  One is to inform.  The other is as an experiment.  I am posting it using HubPress, a tool which uses GitHub the same way I ultimately hope this prototype will.

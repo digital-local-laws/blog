@@ -4,8 +4,17 @@
     "repositoryName": "dev.hubpress.io",
     "branch": "gh-pages"
   },
-  "site": {},
-  "socialnetwork": {},
+  "site": {
+    "title": "Digital Local Laws Blog",
+    "description": "Thoughts, news, and ideas as we figure out how to implement a digital local laws platform",
+    "googleAnalytics": "UA-74991932-1"
+  },
+  "socialnetwork": {
+    "email": "ari.epstein@dos.ny.gov",
+    "twitter": "@atepstein",
+    "linkedin": "ari-epstein-28989730",
+    "github": "digital-local-laws"
+  },
   "theme": {
     "name": "casper"
   }

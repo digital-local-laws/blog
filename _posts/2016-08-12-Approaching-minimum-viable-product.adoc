@@ -1,0 +1,7 @@
+= Approaching minimum viable product
+
+Some recent changes make one of the steps needed to get a minimum viable product ready for clerks to try out.
+We are now storing the information for each node or structured unit of the law in a single file instead of multiple files.
+The next step is to develop a driver that allows the legal code to reside in a gitlab repo instead of local file storage.
+Once that is implemented, we should be able to deploy to gitlab and make a demo instance available for trying out.
+Anyone want to help with remaining steps?
